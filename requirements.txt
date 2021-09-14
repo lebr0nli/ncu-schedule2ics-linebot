@@ -1,0 +1,7 @@
+flask
+gunicorn
+pandas
+icalendar
+line-bot-sdk
+lxml
+urllib3
